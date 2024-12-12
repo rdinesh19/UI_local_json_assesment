@@ -17,6 +17,5 @@ class ColorRes {
   static const lightGreyD7 = Color(0xFFD7D7EA);
   static const lightGrey71 = Color(0xFF71717A);
   static const lightGreyAF = Color(0xFFAFAFAF);
-
   static const lightBlueGrey42= Color(0xFF425763);
 }
